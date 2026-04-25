@@ -1,7 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/blue2k2/samples/main/",
-  "esplanade": "Esplanade Park.mp3",
+  "bvox": ["Esplanade Park.mp3", "Backyard Loop.wav"],
   "nail": "nailpad.mp3",
-  "smoke": "smokepad.mp3",
-  "backyard": "Backyard Loop.wav"
+  "smoke": "smokepad.mp3"
 }
